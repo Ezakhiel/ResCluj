@@ -428,5 +428,6 @@
  <copyField source="working_days_closing_hour" dest="text"/>
  <copyField source="working_days_opening_hour" dest="text"/>
  <copyField source="description" dest="text"/>
+ <copyField source="linkSocial" dest="text"/>
  <copyField source="name" dest="text"/>
 </schema>
