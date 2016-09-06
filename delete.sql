@@ -1,0 +1,12 @@
+delete from schedule;
+delete from review;
+delete from restaurant_feature;
+delete from picture;
+delete from member;
+delete from address;
+delete from reservation;
+delete from feature;
+delete from restaurant;
+delete from feature_category;
+delete from client;
+delete from review;
